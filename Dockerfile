@@ -1,1 +1,1 @@
-FROM openpolicyagent/gatekeeper:v3.11.0
+FROM openpolicyagent/gatekeeper:v3.7.2
